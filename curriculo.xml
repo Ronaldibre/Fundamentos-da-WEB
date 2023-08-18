@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<curriculo>
+    <dados_pessoais>
+        <nome>Elon Musk</nome>
+        <data_nascimento>01/01/1970</data_nascimento>
+        <email>elon@mail</email>
+        <telefone>(83) 99999-9999</telefone>
+        <descricao>Lorem ipsum dolor sit amet consectetur adipisicing elit. Corrupti eveniet qui enim non praesentium vel quasi excepturi ipsum totam, natus at, earum doloremque doloribus. Magni illum asperiores in quia sed.</descricao>
+        <endereco>
+            <rua>Av 1 de Maio, 720</rua>
+            <cidade>João Pessoa, PB</cidade>
+            <bairro>Jaguaribe</bairro>
+        </endereco>
+    </dados_pessoais>
+
+    <dados_profissionais>
+        <empresa>
+            <titulo>Experiência</titulo>
+
+            <nome>SpaceX</nome>
+            <cargo>CEO e CTO</cargo>
+            <periodo>2016 - Atual</periodo>
+
+            <nome>Tesla</nome>
+            <cargo>CEO</cargo>
+            <periodo>2014 - Aual</periodo>
+        </empresa>
+
+        <competencia>
+            <titulo>Competências</titulo>
+            <tecnologia>JavaScript</tecnologia>
+            <tecnologia>CSS</tecnologia>
+            <tecnologia>HTML</tecnologia>
+            <tecnologia>XML</tecnologia>
+        </competencia>
+
+
+        <formacao>
+        <titulo>Formação Acadêmica</titulo>
+
+        <instituicao>
+        <nome>Instituto Federal de Educação, Ciência e Tecnologia da Paraíba</nome>
+        <tipo>Mestrado Profissional em Informática</tipo>
+        <periodo>2016 - Atual</periodo>
+        </instituicao>
+        
+        <instituicao>
+        <nome>Instituto Federal de Educação, Ciência e Tecnologia da Paraíba</nome>
+        <tipo>Curso Superior em Tecnologia em Sistemas para Internet</tipo>
+        <periodo>2010 - 2013</periodo>
+        </instituicao>
+        
+        
+        </formacao>
+        
+    </dados_profissionais>
+
+</curriculo>
